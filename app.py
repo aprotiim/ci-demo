@@ -15,3 +15,4 @@ if __name__ == "__main__":
     result2 = sub(4, 1)
     result3 = mul(3, 7)
     print(result1, result2, result3)
+    
